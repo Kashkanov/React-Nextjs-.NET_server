@@ -398,3 +398,26 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+.vs
+/bin/Debug/net8.0/appsettings.json
+/bin/Debug/net8.0/server.deps.json
+/bin/Debug/net8.0/server.dll
+/bin/Debug/net8.0/server.exe
+/bin/Debug/net8.0/server.pdb
+/bin/Debug/net8.0/server.runtimeconfig.json
+/.vs/server/v17/.futdcache.v2
+/.vs/server/v17/.suo
+/.vs/server/v17/DocumentLayout.json
+/.vs/ProjectEvaluation/server.metadata.v8.bin
+/.vs/ProjectEvaluation/server.projects.v8.bin
+/.vs/ProjectEvaluation/server.strings.v8.bin
+/.vs/server/DesignTimeBuild/.dtbcache.v2
+/server.csproj.user
+/appsettings.json
+/obj/project.assets.json
+/obj/project.nuget.cache
+/obj/server.csproj.nuget.dgspec.json
+/obj/server.csproj.nuget.g.props
+/obj/server.csproj.nuget.g.targets
+/server.csproj
